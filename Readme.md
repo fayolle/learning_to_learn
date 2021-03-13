@@ -1,1 +1,1 @@
-An implementation of learning to learn by gradient descent by gradient descent. 
+An implementation of the paper "Learning to learn by gradient descent by gradient descent" by Marcin Andrychowicz, Misha Denil, Sergio Gomez, Matthew W. Hoffman, David Pfau, Tom Schaul, Brendan Shillingford, and Nando de Freitas ([arxiv1606.04474](https://arxiv.org/abs/1606.04474)). 
